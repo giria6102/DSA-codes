@@ -1,4 +1,4 @@
-#include <iostream>   //conversion od decimal to binary
+#include <iostream>   //conversion from decimal to binary
 using namespace std;
 #include<math.h>
 
