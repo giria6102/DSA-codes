@@ -1,0 +1,10 @@
+int main() {
+  int n;
+  cin>>n;
+    int sum=0;
+    for(int i=5;i<=n;i=i*5){
+        sum+=n/i;
+    }
+    
+    cout<<"Trailing zeros in a factorial of "<<n<<sum<<endl;
+}
